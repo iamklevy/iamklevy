@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I'm Ahmed Osama (aka Klevy)
 
-<!--
-**iamklevy/iamklevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### About Me
+I'm a computer science graduate, model, and creative entrepreneur behind **KLEVY**, a swimwear and fashion brand based in Egypt. I'm passionate about technology, design, and building digital and physical experiences that stand out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:  
+  - A full-stack event booking system using React, Node.js, and MongoDB  
+  - My website: [iamklevy.com](https://iamklevy.com)  
+  - Scaling my swimwear line **KLEVY** with Meta Ads and custom Shopify sections  
+
+- 🌱 I’m currently learning:  
+  - Full-stack web development (React, Express, MongoDB)  
+  - AI + Neural Networks
+  - Business development & e-commerce strategy  
+
+- 💡 Interests:  
+  - AI & Computer Vision  
+  - Fashion Design 
+  - Embedded systems and Hardware
+  - Startup culture & branding  
+
+---
+
+### 📫 Let's Connect
+
+- 🧠 Portfolio / Blog: [iamklevy.com](https://iamklevy.com)
+- 📸 Instagram: [@iamklevy_](https://instagram.com/iamklevy_)
+- 🧵 Fashion Brand: [klevyofficial.com](https://klevyofficial.com)
+- ✉️ Email: iamklevy@icloud.com
+
+
+---
+
+Thanks for stopping by! Feel free to explore my projects or reach out to collaborate 🤝
