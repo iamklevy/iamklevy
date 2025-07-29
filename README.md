@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ahmed Osama (aka Klevy)
+## Hi there 👋 I'm Ahmed (aka Klevy)
 
 Welcome to my GitHub profile!
 
