@@ -26,8 +26,6 @@ I'm a computer science graduate, model, and creative entrepreneur behind [KLEVY]
 ### 📫 Let's Connect
 
 - 🧠 Portfolio / Blog: [iamklevy.com](https://iamklevy.com)
-- 📸 Instagram: [@iamklevy_](https://instagram.com/iamklevy_)
-- 🧵 Fashion Brand: [klevyofficial.com](https://klevyofficial.com)
 - ✉️ Email: iamklevy@icloud.com
 
 
