@@ -3,12 +3,7 @@
 Welcome to my GitHub profile!
 
 ### About Me
-I'm a computer science graduate, model, and creative entrepreneur behind [KLEVY](https://klevyofficial.com), a swimwear and fashion brand based in Egypt. I'm passionate about technology, design, and building digital and physical experiences that stand out.
-
-- 🔭 I’m currently working on:  
-  - A full-stack event booking system using React, Node.js, and MongoDB  
-  - My website: [iamklevy.com](https://iamklevy.com)  
-  - Scaling my swimwear line **KLEVY** with Meta Ads and custom Shopify sections  
+computer science graduate with a major in computer systems (embedded systems). passionate about technology, design, and building digital and physical experiences that stand out.
 
 - 🌱 I’m currently learning:  
   - Full-stack web development (React, Express, MongoDB)  
@@ -24,8 +19,6 @@ I'm a computer science graduate, model, and creative entrepreneur behind [KLEVY]
 ---
 
 ### 📫 Let's Connect
-
-- 🧠 Portfolio / Blog: [iamklevy.com](https://iamklevy.com)
 - ✉️ Email: iamklevy@icloud.com
 
 
