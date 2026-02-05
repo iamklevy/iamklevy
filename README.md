@@ -19,7 +19,7 @@ computer science graduate with a major in computer systems (embedded systems). p
 ---
 
 ### 📫 Let's Connect
-- ✉️ Email: iamklevy@icloud.com
+- ✉️ Email: jrahmedosama@gmail.com
 
 
 ---
